@@ -1,0 +1,29 @@
+{
+  "name": "bitcore-message-safecoin",
+  "version": "4.3.0",
+  "description": "Zcash Messages for Bitcore",
+  "author": "BitPay <dev@bitpay.com>",
+  "main": "index.js",
+  "scripts": {
+    "lint": "gulp lint",
+    "test": "gulp test:node",
+    "coverage": "gulp coverage",
+    "build": "gulp"
+  },
+  "keywords": [
+    "safecoin",
+    "bitcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fair-Exchange/bitcore-message-safecoin.git"
+  },
+  "dependencies": {
+    "bitcore-lib-safecoin": "4.3.0"
+  },
+  "license": "MIT"
+}

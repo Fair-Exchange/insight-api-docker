@@ -1,0 +1,48 @@
+{
+  "name": "insight-ui-safecoin",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the safecoin network and build your own services with it.",
+  "version": "4.3.0",
+  "repository": "git+https://github.com/Fair-Exchange/insight-ui-safecoin.git",
+  "contributors": [
+    {
+      "name": "Matias Alejo Garcia",
+      "email": "ematiu@gmail.com"
+    },
+    {
+      "name": "Manuel Araoz",
+      "email": "manuelaraoz@gmail.com"
+    },
+    {
+      "name": "Mario Colque",
+      "email": "colquemario@gmail.com"
+    },
+    {
+      "name": "Gustavo Cortez",
+      "email": "cmgustavo83@gmail.com"
+    },
+    {
+      "name": "Juan Ignacio Sosa Lopez",
+      "email": "bechilandia@gmail.com"
+    },
+    {
+      "name": "Jack Grigg",
+      "email": "jack@z.cash"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Fair-Exchange/insight-ui-safecoin/issues"
+  },
+  "homepage": "https://github.com/Fair-Exchange/insight-ui-safecoin",
+  "license": "MIT",
+  "keywords": [
+    "insight",
+    "blockchain",
+    "blockexplorer",
+    "safecoin",
+    "bitcore",
+    "front-end"
+  ],
+  "bitcoreNode": "bitcore-node-safecoin",
+  "dependencies": {
+  }
+}

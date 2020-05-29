@@ -1,0 +1,8 @@
+{
+  "name": "safecoin-api-docker",
+  "version": "4.3.0",
+  "devDependencies": {},
+  "dependencies": {
+    "lerna": "^3.20.2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "safecoin-api",
+  "description": "A full Safecoin node build with Bitcore",
+  "version": "4.3.0",
+  "repository": "https://github.com/user/project",
+  "license": "MIT",
+  "readme": "README.md",
+  "scripts": {
+    "start": "node ../bitcore-node-safecoin/bin/bitcore-node start"
+   },
+  "dependencies": {
+    "bitcore-lib-safecoin": "4.3.0",
+    "bitcore-node-safecoin": "4.3.0",
+    "insight-api-safecoin": "4.3.0",
+    "insight-ui-safecoin": "4.3.0"
+  }
+}

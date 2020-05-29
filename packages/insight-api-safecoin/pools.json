@@ -1,0 +1,135 @@
+[
+  {
+    "poolName": "Equipool Asia",
+    "url": "https://equipool.1ds.us/getting_started",
+    "searchStrings": [
+      "Equipool Asia"
+    ]
+  },
+  {
+    "poolName": "Equipool Europe",
+    "url": "https://equipool.1ds.us/getting_started",
+    "searchStrings": [
+      "Equipool Europe"
+    ]
+  },
+  {
+    "poolName": "Equipool North America",
+    "url": "https://equipool.1ds.us/getting_started",
+    "searchStrings": [
+      "Equipool North America"
+    ]
+  },
+  {
+    "poolName": "Catspool Europe",
+    "url": "http://safecoin.catspool.org/",
+    "searchStrings": [
+      "safecoin.catspool.org eu"
+    ]
+  },
+   {
+    "poolName": "Catspool North America",
+    "url": "http://safecoin.catspool.org/",
+    "searchStrings": [
+      "safecoin.catspool.org us"
+    ]
+   },
+  {
+    "poolName": "Catspool Asia",
+    "url": "http://safecoin.catspool.org/",
+    "searchStrings": [
+      "safecoin.catspool.org asia"
+    ]
+  },
+  {
+      "poolName": "Miningspeed",
+      "url": "https://safecoin.miningspeed.com/",
+      "searchStrings": [
+      "miningspeed"
+      ]
+  },
+  {
+      "poolName": "Lucky-Mining(UA)",
+      "url": "https://safe.lucky-mining.com.ua/",
+      "searchStrings": [
+      "lucky-mining.com.ua"
+    ]
+  },
+  {
+    "poolName": "pool.sexy",
+    "url": "http://safe.pool.sexy",
+    "searchStrings": [
+      "pool.sexy"
+    ]
+  },
+  {
+    "poolName": "Nibiru Pool",
+    "url": "https://safe.nibirupool.com",
+    "searchStrings": [
+      "NibiruPool"
+    ]
+  },
+  {
+    "poolName": "COINBLOCKERS",
+    "url": "https://safe.coinblockers.com/",
+    "searchStrings": [
+      "coinblockers"
+    ]
+  },
+  {
+    "poolName": "Official SafeCoin Pool (DEV TEAM)",
+    "url": "https://pool.safecoin.org",
+    "searchStrings": [
+      "safecoin.org"
+    ]
+  },
+{
+    "poolName": "MinerMore.com",
+    "url": "https://minermore.com/pool/SAFE/",
+    "searchStrings": [
+      "minermore.com"
+    ]
+  },
+{
+    "poolName": "Voidr.net",
+    "url": "https://safecoin.voidr.net/",
+    "searchStrings": [
+      "Voidr https://voidr.net"
+    ]
+},
+{
+    "poolName": "Solopool.org",
+    "url": "https://safe.solopool.org",
+    "searchStrings": [
+      "solopool.org"
+    ]
+},
+{
+    "poolName": "Equihub.pro",
+    "url": "https://safecoin.equihub.pro/",
+    "searchStrings": [
+      "equihub.pro"
+    ]
+},
+{
+    "poolName": "Suprnova.cc",
+    "url": "https://safe.suprnova.cc/",
+    "searchStrings": [
+      "suprnova.cc"
+    ]
+},
+{
+    "poolName": "SafeCoinPool.Club",
+    "url": "http://safecoinpool.club/",
+    "searchStrings": [
+      "SafeCoinPool.Club"
+    ]
+},
+{
+    "poolName": "Zergpool",
+    "url": "http://zergpool.io/",
+    "searchStrings": [
+      "Zergpool http://zergpool.com"
+    ]
+}
+]

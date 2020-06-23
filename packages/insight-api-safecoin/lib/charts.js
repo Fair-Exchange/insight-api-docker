@@ -114,7 +114,7 @@ ChartController.prototype._miningRevenueChart = function(blocks, callback) {
         block.reward * 10000 * 10000,
         function(memo, txid, next2) {
           self.node.getDetailedTransaction(txid, function(err, tx) {
-            next2(null, memo+tx.feeSatoshis);
+            next2(null, memo+ tx ? tx.feeSatoshis : 0);
           });
         },
         function(err, revenueSatoshis) {

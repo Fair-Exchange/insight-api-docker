@@ -1,0 +1,19 @@
+[Unit]
+Description=Insight V4 for SAFE (SAFEV4i)
+After=network.target
+
+[Service]
+User=root
+Group=root
+Type=simple
+RestartSec=30
+TimeoutSec=60
+Restart=always
+StandardError=syslog
+StandardOutput=syslog
+SyslogIdentifier=SAFEV4i
+WorkingDirectory=/tmp
+ExecStart=/usr/bin/docker run --mount source=explorerSafecoinOrg,target=/usr/src/app/.safecoin -p 13000:3000 -t safecoin-api-v4
+
+[Install]
+WantedBy=multi-user.target
